@@ -1,2 +1,1 @@
-# Gemini-zapret
-Gemini zapret
+# О запрете
